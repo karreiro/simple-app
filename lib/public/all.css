@@ -1,0 +1,35 @@
+.content .pure-table {
+  margin: 0 auto
+}
+
+.content {
+  margin: 40px auto
+}
+
+.header {
+  margin-top: 0
+}
+
+.footer {
+  text-align: center
+}
+
+.pure-control-group label {
+  color: #AAA
+}
+
+.menu {
+  padding-top: 10px
+}
+
+.menu a {
+  padding: 0 10px
+}
+
+.menu a:hover {
+  text-decoration: underline
+}
+
+.menu form {
+  margin: 0 0 15px
+}

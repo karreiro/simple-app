@@ -1,0 +1,490 @@
+- id: '1'
+  stars: 3
+  title: Fear and Loathing in Las Vegas
+  year: 1998
+  screenSize: 720p
+  format: HD-DVD
+  audioCodec: DTS
+  videoCodec: h264
+  releaseGroup: ESiR
+
+- id: '2'
+  stars: 4
+  title: El Dia de la Bestia
+  year: 1995
+  format: DVD
+  language: spanish
+  videoCodec: DivX
+
+- id: '3'
+  stars: 3
+  title: Dark City
+  year: 1998
+  format: BluRay
+  screenSize: 720p
+  audioCodec: DTS
+  videoCodec: h264
+  releaseGroup: CHD
+
+- id: '4'
+  stars: 3
+  title: Sin City
+  year: 2005
+  format: BluRay
+  screenSize: 720p
+  videoCodec: h264
+  audioCodec: AC3
+  releaseGroup: SEPTiC
+
+- id: '5'
+  stars: 3
+  title: Borat
+  year: 2006
+  other: PROPER
+  format: DVD
+  other:
+    - R5
+    - PROPER
+    - REPACK
+  videoCodec: XviD
+  releaseGroup: PUKKA
+
+- id: '6'
+  stars: 5
+  title: Le Prestige
+  format: DVD
+  videoCodec: h264
+  audioCodec: AAC
+  language:
+    - french
+    - english
+  subtitleLanguage:
+    - french
+    - english
+  releaseGroup: XCT
+
+- id: '7'
+  stars: 2
+  title: Battle Royale
+  year: 2000
+  edition: special edition
+  cdNumber: 1
+  cdNumberTotal: 2
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: ZeaL
+
+- id: '8'
+  stars: 3
+  title: Brazil
+  edition: Criterion Edition
+  year: 1985
+  cdNumber: 2
+
+- id: '9'
+  stars: 3
+  title: Persepolis
+  releaseGroup: "XCT"
+  year: 2007
+  videoCodec: h264
+  audioCodec: AAC
+  language:
+    - French
+    - English
+  subtitleLanguage:
+    - French
+    - English
+
+- id: '10'
+  stars: 3
+  title: Toy Story
+  year: 1995
+  format: HDTV
+  screenSize: 720p
+  language:
+    - english
+    - spanish
+
+- id: '11'
+  stars: 5
+  title: Office Space
+  year: 1999
+  format: DVD
+  language:
+    - english
+    - spanish
+  videoCodec: XviD
+  audioCodec: AC3
+
+- id: '12'
+  stars: 5
+  title: Wild Zero
+  year: 2000
+  videoCodec: DivX
+  releaseGroup: EPiC
+
+- id: '13'
+  stars: 3
+  title: Baraka
+  edition: collector edition
+
+- id: '14'
+  stars: 4
+  title: Blade Runner
+  year: 1982
+  edition: Director's Cut
+  cdNumber: 1
+  format: DVD
+  videoCodec: XviD
+  audioCodec: AC3
+  releaseGroup: WAF
+
+- id: '15'
+  stars: 1
+  title: American The Bill Hicks Story
+  year: 2009
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: EPiSODE
+  website: UsaBit.com
+
+- id: '16'
+  stars: 3
+  title: Charlie And Boots
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: TheWretched
+
+- id: '17'
+  stars: 2
+  title: The Girl With The Dragon Tattoo
+  filmSeries: Steig Larsson Millenium Trilogy
+  filmNumber: 1
+  year: 2009
+  format: BluRay
+  audioCodec: AAC
+  videoCodec: h264
+  screenSize: 720p
+
+- id: '18'
+  stars: 3
+  title: Greenberg
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: ARROW
+  other:
+    - repack
+    - limited
+
+- id: '19'
+  stars: 3
+  title: Paris 2054, Renaissance
+  year: 2005
+  language: french
+  videoCodec: DivX
+
+- id: '20'
+  stars: 4
+  title: Avida
+  year: 2006
+  language: french
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: PROD
+
+- id: '21'
+  stars: 1
+  title: Alice in Wonderland
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: DiAMOND
+
+- id: '22'
+  stars: 3
+  title: Ne Le Dis A Personne
+  language: french
+  cdNumberTotal: 2
+
+- id: '23'
+  stars: 3
+  title: Bunker Palace Hôtel
+  year: 1989
+  language: french
+  format: VHS
+
+- id: '24'
+  stars: 1
+  title: "21"
+  year: 2008
+  format: DVD
+  videoCodec: h264
+  audioCodec: AC3
+  website: sharethefiles.com
+
+- id: '25'
+  stars: 1
+  title: "9"
+  year: 2009
+  format: BluRay
+  audioCodec: DTS
+  screenSize: 720p
+  videoCodec: h264
+  releaseGroup: HDBRiSe
+  website: sharethefiles.com
+
+- id: '26'
+  stars: 5
+  title: Mamma Mia
+  year: 2008
+  format: DVD
+  audioCodec: AC3
+  videoCodec: XviD
+  releaseGroup: CrazyTeam
+
+- id: '27'
+  stars: 3
+  title: M A S H
+  year: 1970
+  videoCodec: DivX
+  format: DVD
+
+- id: '28'
+  stars: 3
+  title: The Doors
+  year: 1991
+  date: 2008-03-09
+  format: BluRay
+  screenSize: 720p
+  audioCodec: AC3
+  videoCodec: h264
+  releaseGroup: HiS@SiLUHD
+  language: english
+  website: sharethefiles.com
+
+- id: '29'
+  stars: 3
+  title: Ratatouille
+  format: DVD
+
+- id: '30'
+  stars: 3
+  title: Fantomas se déchaine
+
+- id: '31'
+  stars: 4
+  title: Comme une Image
+  year: 2004
+  language: french
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: NTK
+  website: www.divx-overnet.com
+
+- id: '32'
+  stars: 3
+  title: Fantastic Mr Fox
+  year: 2009
+  format: DVD
+  videoCodec: h264
+  audioCodec: AAC
+  audioChannels: "5.1"
+  language:
+    - french
+    - english
+  subtitleLanguage:
+    - french
+    - english
+  website: sharethefiles.com
+
+- id: '33'
+  stars: 2
+  title: Somewhere
+  year: 2010
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: iLG
+
+- id: '34'
+  stars: 3
+  title: Moon
+  year: 2009
+
+- id: '35'
+  stars: 3
+  title: Moon
+  year: 2009
+  bonusNumber: 1
+
+- id: '36'
+  stars: 3
+  title: Moon
+  year: 2009
+  bonusNumber: 2
+  bonusTitle: Making Of
+
+- id: '37'
+  stars: 3
+  title: Goldeneye
+  filmSeries: James Bond
+  filmNumber: 17
+
+- id: '38'
+  stars: 3
+  title: Casino Royale
+  filmSeries: James Bond
+  filmNumber: 21
+
+- id: '39'
+  stars: 5
+  title: Casino Royale
+  filmSeries: James Bond
+  filmNumber: 21
+  bonusNumber: 1
+  bonusTitle: Becoming Bond
+
+- id: '40'
+  stars: 3
+  title: Casino Royale
+  filmSeries: James Bond
+  filmNumber: 21
+  bonusNumber: 2
+  bonusTitle: Stunts
+
+- id: '41'
+  stars: 3
+  title: OSS 117--Cairo, Nest of Spies
+
+- id: '42'
+  stars: 3
+  title: The Godfather Part III
+
+- id: '43'
+  stars: 3
+  title: Foobar Part VI
+
+- id: '44'
+  stars: 3
+  title: The Insider
+  year: 1999
+  bonusNumber: 2
+  bonusTitle: 60 Minutes Interview-1996
+
+- id: '45'
+  stars: 3
+  title: Rush Beyond The Lighted Stage
+  bonusNumber: 9
+  bonusTitle: Between Sun and Moon-2002 Hartford
+
+- id: '46'
+  stars: 3
+  title: Indiana Jones and the Temple of Doom
+  year: 1984
+  format: HDTV
+  screenSize: 720p
+  videoCodec: h264
+  audioCodec: AC3
+  audioChannels: "5.1"
+
+- id: '47'
+  stars: 3
+  title: The Director’s Notebook
+  year: 2006
+  format: BluRay
+  videoCodec: h264
+  videoApi: DXVA
+  screenSize: 720p
+  audioCodec: AC3
+
+- id: '48'
+  stars: 3
+  title: Cosmopolis
+  year: 2012
+  screenSize: 720p
+  videoCodec: h264
+  releaseGroup: AN0NYM0US
+  format: BluRay
+  other: LIMITED
+
+- id: '49'
+  stars: 3
+  title: La Science des Rêves
+  year: 2006
+  format: DVD
+  videoCodec: XviD
+  releaseGroup: MP
+  language: French
+
+- id: '50'
+  stars: 3
+  title: The Italian Job
+
+- id: '51'
+  stars: 3
+  title: The Rum Diary
+  year: 2011
+  screenSize: 1080p
+  format: BluRay
+  videoCodec: h264
+  audioCodec: DTS
+  releaseGroup: D-Z0N3
+
+- id: '52'
+  stars: 3
+  title: Life Of Pi
+  year: 2012
+  screenSize: 1080p
+  format: BluRay
+  videoCodec: h264
+  audioCodec: DTS
+  releaseGroup: D-Z0N3
+
+- id: '53'
+  stars: 3
+  title: The Kings Speech
+  year: 2010
+  screenSize: 1080p
+  format: BluRay
+  audioCodec: DTS
+  videoCodec: h264
+  releaseGroup: D-Z0N3
+
+- id: '54'
+  stars: 3
+  title: Street Kings
+  year: 2008
+  format: BluRay
+  screenSize: 1080p
+  audioCodec: DTS
+  videoCodec: h264
+  videoApi: DXVA
+  releaseGroup: EuReKa
+
+- id: '55'
+  stars: 3
+  title: 2001 A Space Odyssey
+  year: 1968
+  format: HD-DVD
+  screenSize: 1080p
+  audioCodec: DTS
+  videoCodec: h264
+  videoApi: DXVA
+  releaseGroup: EuReKa
+
+- id: '56'
+  stars: 3
+  title: "2012"
+  year: 2009
+  screenSize: 720p
+  format: BluRay
+  videoCodec: h264
+  audioCodec: DTS
+  releaseGroup: WiKi
+
+- id: '57'
+  stars: 3
+  title: Dead Man Down
+  year: 2013
+  format: BluRay
+  videoCodec: XviD
+  audioChannels: "5.1"
+  idNumber: XD607ebb-BRc59935-5155473f-1c5f49
